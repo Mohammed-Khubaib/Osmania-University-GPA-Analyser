@@ -1,4 +1,4 @@
-computer_science :
+ComputerScienceEngineering(CSE):
   first_sem :
     subjects : 
       - Environmental science
@@ -129,3 +129,184 @@ computer_science :
      - 1
      - 2
      - 0
+  seventh_sem :
+    subjects :
+     - Distributed Systems
+     - Professional Elective –III
+     - Professional Elective –IV
+     - Open Elective -II
+     - Distributed Systems Lab
+     - Web Technologies Lab
+     - Project Work – I
+     - Summer Internship
+    credits :
+     - 3
+     - 3
+     - 3
+     - 3
+     - 1
+     - 2
+     - 3
+     - 2
+  eighth_sem :
+    subjects :
+     - Professional Elective -V
+     - Open Elective – III
+     - Project Work – II
+    credits :
+     - 3
+     - 3
+     - 8
+InformationTechnology(IT):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - BASIC ELECTRONICS
+      - MATHEMA.FOUN.OF INF.TECHNOLOGY
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - MATHEMATICS-III
+      - DATA STRUCTURES
+      - DIGITAL ELECTRONICS
+      - BASIC ELECTRONICS LAB
+      - DATA STRUCTURES LAB
+      - IT WORKSHOP LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - SIGNALS AND SYSTEMS
+      - COM.ORGAN.& MICROPROCESSOR
+      - OPERATIONS RESEARCH
+      - DATABASE SYSTEMS
+      - JAVA PROGRAMMING
+      - DATA COMMUNICATIONS
+      - JAVA PROGRAMMING LAB
+      - MICROPROCESSOR LAB
+      - DATABASE SYSTEMS LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - ARTIFICIAL INTELLIGENCE
+      - OPERATING SYSTEMS
+      - SOFTWARE ENGINEERING
+      - AUTOMATA THEORY
+      - COMPUTER NETWORKS
+      - P.E-1
+      - WEB APPLICATION DEVELOP.LAB
+      - ARTIFICIAL INTELLIGENCE LAB
+      - COM.NETWORKS&OS LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1.5
+  sixth_sem:
+    subjects:
+      - P.E-2
+      - O.E-1
+      - MACHINE LEARNING
+      - CRYPTOGRAPHY AND NET.SECURITY
+      - DESIGN&ANALYSIS OF ALGORITHMS
+      - EMBEDDED SYSTEM
+      - MINI PROJECT-1
+      - MACHINE LEARNING LAB
+      - MOBILE APPL.DEVELOPMENT LAB 
+      - EMBEDDED SYSTEM LAB
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+      - 1 
+  seventh_sem:
+    subjects:
+      - Internet of Things
+      - Big Data Analytics
+      - O.E-2
+      - P.E-3
+      - P.E-4
+      - Internet Of Things Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+  eighth_sem:
+    subjects:
+      - O.E-3
+      - P.E-5 
+      - Project Work
+    credits:
+      - 3
+      - 3
+      - 8

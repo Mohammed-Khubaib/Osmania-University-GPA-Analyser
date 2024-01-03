@@ -9,22 +9,24 @@ with open('conf.yaml') as file:
 
 # Access the YAML data
 # print(data)
-sem = ['first_sem','second_sem','third_sem','fourth_sem','fifth_sem','sixth_sem']
+branchs = ['ComputerScienceEngineering(CSE)','InformationTechnology(IT)']
+branch = st.selectbox("Select Your Branch",branchs)
+sem = ['first_sem','second_sem','third_sem','fourth_sem','fifth_sem','sixth_sem','seventh_sem','eighth_sem']
 semesters = st.multiselect("Select every semester you have appeared",sem)
-# print(data['computer_science']['first_sem'])
+# print(data[branch]['first_sem'])
 cbcs = {}
 subjects = []
 credits = []
 for semester in semesters :
-    # st.success(type(data['computer_science'][semester]['subjects']))
-    # subs = data['computer_science'][semester]['subjects']
-    for subject in data['computer_science'][semester]['subjects'] :
+    # st.success(type(data[branch][semester]['subjects']))
+    # subs = data[branch][semester]['subjects']
+    for subject in data[branch][semester]['subjects'] :
         # st.warning(subject)
         subjects.append(subject)
-    for credit in data['computer_science'][semester]['credits'] :
+    for credit in data[branch][semester]['credits'] :
         # st.warning(credit)
         credits.append(credit)
-    # cbcs[s] = data['computer_science'][s]['credits']
+    # cbcs[s] = data[branch][s]['credits']
 # st.warning(subjects)
 # st.success(credits)
 for i in range(len(subjects)) :
