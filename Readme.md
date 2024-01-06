@@ -13,10 +13,11 @@
     streamlit run app.py
     ```
 ## User interface:
+
 * SGPA Calculator:
-    ![sgpa](sgpa.png)
 * CGPA Calculator:
-    ![cgpa](cgpa.png)
+![sgpa](./sgpa.png)
+![cgpa](./cgpa.png)
 
 ## Code Structure:
 ```
