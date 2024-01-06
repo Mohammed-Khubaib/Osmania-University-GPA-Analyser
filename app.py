@@ -5,7 +5,7 @@ from st_on_hover_tabs import on_hover_tabs
 from LineChart import LineChart
 
 # loading the Yaml File
-with open('data.yaml', 'r') as file:
+with open('engineering_curriculum.yaml', 'r') as file:
     data = yaml.safe_load(file)
 
 # Hide the "Made with Streamlit" footer
