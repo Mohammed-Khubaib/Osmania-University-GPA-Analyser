@@ -1,4 +1,4 @@
-# Osmania University Result Analyser:
+# Osmania University GPA Analyser:
 ## Setup:
 1. clone the git repository:
     ```
@@ -14,7 +14,6 @@
     ```
 ## User interface:
 * SGPA Calculator:
-
     ![sgpa](sgpa.png)
 * CGPA Calculator:
     ![cgpa](cgpa.png)
