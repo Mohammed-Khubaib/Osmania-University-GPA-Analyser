@@ -1,27 +1,9 @@
 import streamlit as st
-import pandas as pd
-from streamlit_elements import elements, mui, html
+from streamlit_elements import elements, mui
 from streamlit_elements import nivo
 import nivo_chart as nc
-st.set_page_config(page_title='Semester Tracker',layout='wide')
-st.title("Calculate overall Cgpa")
-grades = []
-Cgpa = 0.000
-n=int(st.number_input("How many semester Have you appered so far ?",min_value=1,max_value=8))
-for i in range(n):
-    grades.append(float(st.number_input(f'Enter semester {i+1} sgpa ',min_value=5.0,max_value=10.0,step=0.001)))
 
-SemesterGrades = [{"x": i + 1, "y": grades[i]} for i in range(n)]
-
-
-for i in grades :
-    Cgpa = Cgpa + i
-# st.info(f"Expected GPA ={Cgpa/n}")
-TCgpa = Cgpa/n
-stringg = r'''\huge \color{skyblue} \text{ Expected GPA } =  \color{darkorange} '''+str(TCgpa)
-st.latex(stringg)
-
-def LineChart():
+def LineChart(SemesterGrades):
     with elements("Semester"):
         DATA = [
             {
@@ -115,6 +97,6 @@ def LineChart():
                 }
 
                 )
-st.divider()
-st.subheader("Performance :")            
-LineChart()
+# st.divider()
+# st.subheader("Performance :")            
+# LineChart()

@@ -310,3 +310,303 @@ InformationTechnology(IT):
       - 3
       - 3
       - 8
+
+Mechanical(MECH):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - BASIC ELECTRONICS
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - MATHEMATICS-III
+      - Engineering Mechanic-I 
+      - Metallurgy and Material Science
+      - Thermodynamics 
+      - Metallurgy and Material Testing Lab
+      - Machine Drawing and Modeling Lab 
+    credits:
+      - 3
+      - 2
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - Engineering Mechanic-II
+      - Fluid Mechanics 
+      - Energy Sciences and Engineering 
+      - Mechanics of Materials
+      - Applied Thermodynamics
+      - Kinematics of Machinery
+      - Manufacturing Processes
+      - Thermal Engineering Lab -I
+      - Manufacturing Processes Lab
+    credits:
+      - 3
+      - 3
+      - 2
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - Hydraulic Machines
+      - Design of Machine Elements
+      - Dynamics of Machines
+      - Metrology and Instrumentation
+      - Heat Transfer
+      - Professional Elective-I
+      - Thermal Engineering Lab-2
+      - Dynamics of Machines Lab 
+      - Fluid Mechanics and Hydraulics Machinery Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  sixth_sem:
+    subjects:
+      - Machine Design
+      - Metal Cutting and Machine Tools
+      - Finite Element Analysis
+      - Professional Elective-II 
+      - Professional Elective-III 
+      - Open Elective-I
+      - Metrology and Machine Tools Lab 
+      - Computer Aided Engineering Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  seventh_sem:
+    subjects:
+      - Operations Research
+      - Automation in Manufacturing
+      - Professional Elective-IV
+      - Professional Elective-V
+      - Open Elective-II
+      - Unknown Subject 
+      - Unknown Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+  eighth_sem:
+    subjects:
+      - Professional Elective-VI
+      - Open Elective-III 
+      - Project Work
+    credits:
+      - 3
+      - 3
+      - 8
+
+ElectricalAndCommunicationEngineering(ECE):
+  first_sem:
+    subjects:
+      - MATHEMATICS-I
+      - PHYSICS
+      - BASIC ELECTRICAL ENG.
+      - INDIAN CONSTITUTION
+      - ENGINEERING GRAPHICS
+      - BASIC ELECT.ENG. LAB
+      - ENGINEERING PHYSICS LAB
+    credits:
+      - 4
+      - 4
+      - 4 
+      - 0
+      - 3
+      - 1
+      - 1.5
+  second_sem:
+    subjects:
+      - ENGLISH
+      - MATHEMATICS-II
+      - ENGINEERING CHEMISTRY
+      - PROG.FOR PROBLEM SOLVING
+      - ESSENCE OF INDIAN TR.KNOWLEDGE
+      - ENVIRONMENTAL SCIENCE
+      - WORKSHOP-MANUF.PROCESS LAB
+      - ENGLISH LAB
+      - ENGINEERING CHEMISTRY LAB
+      - PROG.FOR PROBLEM SOLVING LAB
+    credits:
+      - 2
+      - 4
+      - 4
+      - 3
+      - 0
+      - 0
+      - 3
+      - 1
+      - 1.5
+      - 1
+  third_sem:
+    subjects:
+      - EFFECTIVE TECH.COMM.IN ENGLISH
+      - FINANCE AND ACCOUNTING
+      - Digital Electronics 
+      - Probability Theory and Stochastic Processes
+      - Electronic Devices
+      - Network Theory
+      - Electronic Devices and Circuits Lab
+      - Electronic Workshop 
+    credits:
+      - 3
+      - 3
+      - 4
+      - 4
+      - 3
+      - 4
+      - 1
+      - 1
+  fourth_sem:
+    subjects:
+      - Signals and Systems
+      - Analog Electronic Circuits
+      - Computer Organization and Architecture
+      - Electromagnetic Theory and Transmission Lines
+      - Pulse and Linear Integrated Circuits
+      - Electronic Measurements and Instrumentation
+      - Analog Electronic Circuits Lab
+      - Pulse and Linear Integrated Circuits Lab
+    credits:
+      - 4
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  fifth_sem:
+    subjects:
+      - Digital Signal Processing 
+      - Microprocessor and Microcontroller
+      - Analog Communication
+      - Automatic Control Systems
+      - Antennas and wave Propagation
+      - Industrial Administration and Financial Management
+      - Microprocessor and Microcontroller Lab
+      - Systems and Signal Processing Lab
+      - Mini Project
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 2
+  sixth_sem:
+    subjects:
+      - Digital Communication
+      - VLSI Design
+      - Data Communication and Computer Networks
+      - Professional Elective-I 
+      - Professional Elective-II
+      - Open Elective-I
+      - Communication Systems Lab
+      - Digital Integrated Circuits Lab
+      - Data Communication and Computer Networks Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+      - 1
+  seventh_sem:
+    subjects:
+      - Microwave Theory and Techniques
+      - Professional Elective 3
+      - Professional Elective 4
+      - Open Elective 2
+      - Open Elective 3
+      - Electronic Design Automation(EDA) Lab
+      - Microwave Theory and Techniques Lab
+    credits:
+      - 3
+      - 3
+      - 3
+      - 3
+      - 3
+      - 1
+      - 1
+  eighth_sem:
+    subjects:
+      - Professional Elective 5
+      - Professional Elective 6
+      - Open Elective 4
+      - Project
+    credits:
+      - 3
+      - 3
+      - 3
+      - 8
