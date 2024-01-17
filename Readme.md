@@ -1,4 +1,4 @@
-# Osmania University GPA Analyser:
+# Osmania University GPA Analyser/Calculator:
 ## Setup:
 1. clone the git repository:
     ```
