@@ -77,7 +77,7 @@ def sgpa(branch:str,semesters:str):
     cred = r'''\large \\ \color{red} \text{Total Credits \color{skyblue} = } \color{orange}''' + str(df['Credits'].sum())
     st.latex(sub)
     st.latex(cred)
-    info = r'''\huge \color{orange}\text{SGPA} = ''' + str(Sgpa)
+    info = r'''\huge \color{orange}\text{SGPA} = ''' + str(round(Sgpa,2))
     st.latex(info)
     st.divider()
 
