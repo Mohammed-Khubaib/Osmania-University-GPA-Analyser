@@ -58,6 +58,7 @@ def LineChart(SemesterGrades):
                 pointBorderColor={ "from": "serieColor" },
                 # pointLabelYOffset=-12,
                 enableArea=True,
+                areaBaselineValue=5,
                 useMesh=True,
                 legends=[
                     {
